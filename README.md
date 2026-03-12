@@ -84,3 +84,4 @@ http://localhost:8002/info
 ```
 Example response:
 ![Example output](6.png)
+![Example output](7.png)
