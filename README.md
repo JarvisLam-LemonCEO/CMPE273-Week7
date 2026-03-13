@@ -1,4 +1,20 @@
 # CMPE 273 Week7 Assignment – Naming and Service Discovery
+This project demonstrates a microservice service discovery system using a Service Registry pattern.
+
+The system allows multiple service instances to register themselves with a central registry. A client can then discover available services and randomly call one instance.
+
+# Project Overview
+This assignment demonstrates the following distributed system concepts:
+• Service registration
+• Service discovery
+• Multiple service instances
+• Heartbeat health monitoring
+• Client-side load balancing (random instance selection)
+
+# System Architecture
+![Start the service registry](0.png)
+
+# How to run
 ## 1. Open project folder
 Navigate to the folder containing your Python files.
 ```bash
